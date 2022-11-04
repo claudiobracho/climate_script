@@ -1,4 +1,4 @@
-**I Congreso & XII Jornadas de Usuarios de R
+I Congreso & XII Jornadas de Usuarios de R
 
 Preparación y comparación de escenarios climáticos actuales y futuros
 Un flujo de trabajo ilustrativo en R
