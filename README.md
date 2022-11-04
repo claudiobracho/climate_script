@@ -3,7 +3,7 @@ Un flujo de trabajo ilustrativo en R
 
 I Congreso & XII Jornadas de Usuarios de R
 
-C. A. Bracho-Estévanez*1 y P. González-Moreno*2
+C. A. Bracho-Estévanez 1 y P. González-Moreno 2
 
 1Universidad de Cádiz
 
